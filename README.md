@@ -12,7 +12,7 @@
   </head>
   <body>
     <h1>基本信息</h1>
-    <p>性别：男
+    <p>姓名:艾奔  性别：男  
     籍贯：四川省泸州市<a href="https://baike.sogou.com/v11207.htm">(戳这带您了解我的家乡）</a>
     班级：北京大学2021级药学四班<a href="https://www.pku.edu.cn/">(戳这带您领略北大文化）</a>
     职务：班长
